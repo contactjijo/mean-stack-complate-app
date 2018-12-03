@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="org.eclipse.egit:5.1.0.201809111528-r"/>
+		<item value="org.eclipse.emf.common:2.15.0.v20180723-1316"/>
+		<item value="org.eclipse.emf.ecore:2.15.0.v20180722-1159"/>
+		<item value="org.eclipse.epp.mpc:1.7.2.v20180829-1931"/>
+		<item value="org.eclipse.help:2.2.300.v20180906-0745"/>
+		<item value="org.eclipse.jgit:5.1.0.201809111528-r"/>
+		<item value="org.eclipse.platform:4.9.0.v20180906-1121"/>
+		<item value="org.eclipse.rcp:4.9.0.v20180906-1121"/>
+		<item value="org.eclipse.userstorage:1.1.0.v20170526-1605"/>
+	</list>
+	<section name="NewWizardAction">
+		<item value="com.genuitec.eclipse.code.angular.ui.newproject" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="angular.cli"/>
+		</list>
+	</section>
+	<section name="com.genuitec.eclipse.code.angular.ui.project.ImportAngularProjectRootArea">
+		<item value="D:\Work Space\angular" key="OUTSIDE_LOCATION"/>
+	</section>
+</section>

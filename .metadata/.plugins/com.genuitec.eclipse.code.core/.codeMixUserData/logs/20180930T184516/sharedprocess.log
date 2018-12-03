@@ -1,0 +1,281 @@
+[2018-09-30 18:45:24.769] [sharedprocess] [info] main {"machineId":"80996f112046f154e910c92d4409734bc3327d465cce683c83f35931a2b6dc53"}
+[2018-09-30 18:45:24.822] [sharedprocess] [info] Scanned user extensions: 6
+[2018-09-30 18:45:24.923] [sharedprocess] [info] Deleted from disk mikael.angular-beastcode-6.2.27
+[2018-09-30 18:45:24.956] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:27.535] [sharedprocess] [info] Scanned user extensions: 6
+[2018-09-30 18:45:27.556] [sharedprocess] [info] Scanned user extensions: 6
+[2018-09-30 18:45:27.672] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:31.582] [sharedprocess] [info] Scanned user extensions: 6
+[2018-09-30 18:45:33.096] [sharedprocess] [info] Scanned user extensions: 6
+[2018-09-30 18:45:33.169] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:34.557] [sharedprocess] [info] Scanned user extensions: 6
+[2018-09-30 18:45:34.568] [sharedprocess] [info] Scanned user extensions: 6
+[2018-09-30 18:45:34.568] [sharedprocess] [info] Installing the extension: codemix.angular-0.9.0
+[2018-09-30 18:45:34.588] [sharedprocess] [info] Scanned user extensions: 6
+[2018-09-30 18:45:34.662] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:34.681] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.codemix.angular-0.9.0: codemix.angular-0.9.0
+[2018-09-30 18:45:34.702] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\codemix.angular-0.9.0
+[2018-09-30 18:45:34.702] [sharedprocess] [info] Installation completed. codemix.angular-0.9.0
+[2018-09-30 18:45:34.704] [sharedprocess] [info] Successfully installed the extension: codemix.angular-0.9.0
+[2018-09-30 18:45:34.719] [sharedprocess] [info] Scanned user extensions: 7
+[2018-09-30 18:45:34.751] [sharedprocess] [info] Scanned user extensions: 7
+[2018-09-30 18:45:34.827] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:34.844] [sharedprocess] [info] Scanned user extensions: 7
+[2018-09-30 18:45:34.980] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:36.872] [sharedprocess] [info] Scanned user extensions: 7
+[2018-09-30 18:45:36.879] [sharedprocess] [info] Scanned user extensions: 7
+[2018-09-30 18:45:36.880] [sharedprocess] [info] Installing the extension: gamunu.vscode-yarn-1.6.0
+[2018-09-30 18:45:36.897] [sharedprocess] [info] Scanned user extensions: 7
+[2018-09-30 18:45:36.937] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:37.072] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.gamunu.vscode-yarn-1.6.0: gamunu.vscode-yarn-1.6.0
+[2018-09-30 18:45:37.082] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\gamunu.vscode-yarn-1.6.0
+[2018-09-30 18:45:37.082] [sharedprocess] [info] Installation completed. gamunu.vscode-yarn-1.6.0
+[2018-09-30 18:45:37.085] [sharedprocess] [info] Successfully installed the extension: gamunu.vscode-yarn-1.6.0
+[2018-09-30 18:45:37.091] [sharedprocess] [info] Scanned user extensions: 8
+[2018-09-30 18:45:37.105] [sharedprocess] [info] Scanned user extensions: 8
+[2018-09-30 18:45:37.125] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:37.197] [sharedprocess] [info] Scanned user extensions: 8
+[2018-09-30 18:45:37.217] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:41.667] [sharedprocess] [info] Scanned user extensions: 8
+[2018-09-30 18:45:41.672] [sharedprocess] [info] Scanned user extensions: 8
+[2018-09-30 18:45:41.672] [sharedprocess] [info] Installing the extension: ms-vscode.node-debug2-1.24.2
+[2018-09-30 18:45:41.679] [sharedprocess] [info] Scanned user extensions: 8
+[2018-09-30 18:45:41.706] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:42.150] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.ms-vscode.node-debug2-1.24.2: ms-vscode.node-debug2-1.24.2
+[2018-09-30 18:45:42.163] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\ms-vscode.node-debug2-1.24.2
+[2018-09-30 18:45:42.163] [sharedprocess] [info] Installation completed. ms-vscode.node-debug2-1.24.2
+[2018-09-30 18:45:42.164] [sharedprocess] [info] Successfully installed the extension: ms-vscode.node-debug2-1.24.2
+[2018-09-30 18:45:42.171] [sharedprocess] [info] Scanned user extensions: 9
+[2018-09-30 18:45:42.184] [sharedprocess] [info] Scanned user extensions: 9
+[2018-09-30 18:45:42.205] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:42.288] [sharedprocess] [info] Scanned user extensions: 9
+[2018-09-30 18:45:42.312] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:44.232] [sharedprocess] [info] Scanned user extensions: 9
+[2018-09-30 18:45:44.240] [sharedprocess] [info] Scanned user extensions: 9
+[2018-09-30 18:45:44.240] [sharedprocess] [info] Installing the extension: hookyqr.beautify-1.3.0
+[2018-09-30 18:45:44.252] [sharedprocess] [info] Scanned user extensions: 9
+[2018-09-30 18:45:44.274] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:44.608] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.hookyqr.beautify-1.3.0: hookyqr.beautify-1.3.0
+[2018-09-30 18:45:44.620] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\hookyqr.beautify-1.3.0
+[2018-09-30 18:45:44.620] [sharedprocess] [info] Installation completed. hookyqr.beautify-1.3.0
+[2018-09-30 18:45:44.621] [sharedprocess] [info] Successfully installed the extension: hookyqr.beautify-1.3.0
+[2018-09-30 18:45:44.628] [sharedprocess] [info] Scanned user extensions: 10
+[2018-09-30 18:45:44.642] [sharedprocess] [info] Scanned user extensions: 10
+[2018-09-30 18:45:44.664] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:44.739] [sharedprocess] [info] Scanned user extensions: 10
+[2018-09-30 18:45:44.765] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:45.171] [sharedprocess] [info] Scanned user extensions: 10
+[2018-09-30 18:45:45.178] [sharedprocess] [info] Scanned user extensions: 10
+[2018-09-30 18:45:45.178] [sharedprocess] [info] Installing the extension: eg2.vscode-npm-script-0.3.3
+[2018-09-30 18:45:45.187] [sharedprocess] [info] Scanned user extensions: 10
+[2018-09-30 18:45:45.207] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:45.273] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.eg2.vscode-npm-script-0.3.3: eg2.vscode-npm-script-0.3.3
+[2018-09-30 18:45:45.284] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\eg2.vscode-npm-script-0.3.3
+[2018-09-30 18:45:45.284] [sharedprocess] [info] Installation completed. eg2.vscode-npm-script-0.3.3
+[2018-09-30 18:45:45.285] [sharedprocess] [info] Successfully installed the extension: eg2.vscode-npm-script-0.3.3
+[2018-09-30 18:45:45.294] [sharedprocess] [info] Scanned user extensions: 11
+[2018-09-30 18:45:45.320] [sharedprocess] [info] Scanned user extensions: 11
+[2018-09-30 18:45:45.338] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:45.399] [sharedprocess] [info] Scanned user extensions: 11
+[2018-09-30 18:45:45.412] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:47.766] [sharedprocess] [info] Scanned user extensions: 11
+[2018-09-30 18:45:47.772] [sharedprocess] [info] Scanned user extensions: 11
+[2018-09-30 18:45:47.773] [sharedprocess] [info] Installing the extension: formulahendry.auto-close-tag-0.5.6
+[2018-09-30 18:45:47.788] [sharedprocess] [info] Scanned user extensions: 11
+[2018-09-30 18:45:47.806] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:47.837] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.formulahendry.auto-close-tag-0.5.6: formulahendry.auto-close-tag-0.5.6
+[2018-09-30 18:45:47.847] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\formulahendry.auto-close-tag-0.5.6
+[2018-09-30 18:45:47.847] [sharedprocess] [info] Installation completed. formulahendry.auto-close-tag-0.5.6
+[2018-09-30 18:45:47.848] [sharedprocess] [info] Successfully installed the extension: formulahendry.auto-close-tag-0.5.6
+[2018-09-30 18:45:47.855] [sharedprocess] [info] Scanned user extensions: 12
+[2018-09-30 18:45:47.871] [sharedprocess] [info] Scanned user extensions: 12
+[2018-09-30 18:45:47.888] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:45:47.962] [sharedprocess] [info] Scanned user extensions: 12
+[2018-09-30 18:45:47.975] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:04.786] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-09-30 18:46:10.390] [sharedprocess] [info] Scanned user extensions: 12
+[2018-09-30 18:46:10.400] [sharedprocess] [info] Scanned user extensions: 12
+[2018-09-30 18:46:10.400] [sharedprocess] [info] Installing the extension: zignd.html-css-class-completion-1.17.1
+[2018-09-30 18:46:10.418] [sharedprocess] [info] Scanned user extensions: 12
+[2018-09-30 18:46:10.440] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:21.318] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.zignd.html-css-class-completion-1.17.1: zignd.html-css-class-completion-1.17.1
+[2018-09-30 18:46:21.354] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\zignd.html-css-class-completion-1.17.1
+[2018-09-30 18:46:21.354] [sharedprocess] [info] Installation completed. zignd.html-css-class-completion-1.17.1
+[2018-09-30 18:46:21.360] [sharedprocess] [info] Successfully installed the extension: zignd.html-css-class-completion-1.17.1
+[2018-09-30 18:46:21.396] [sharedprocess] [info] Scanned user extensions: 13
+[2018-09-30 18:46:21.490] [sharedprocess] [info] Scanned user extensions: 13
+[2018-09-30 18:46:21.545] [sharedprocess] [info] Scanned user extensions: 13
+[2018-09-30 18:46:21.628] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:21.652] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:21.778] [sharedprocess] [info] Scanned user extensions: 13
+[2018-09-30 18:46:21.796] [sharedprocess] [info] Scanned user extensions: 13
+[2018-09-30 18:46:21.796] [sharedprocess] [info] Installing the extension: codemix.web-0.9.1
+[2018-09-30 18:46:21.835] [sharedprocess] [info] Scanned user extensions: 13
+[2018-09-30 18:46:21.883] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:21.897] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.codemix.web-0.9.1: codemix.web-0.9.1
+[2018-09-30 18:46:21.923] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\codemix.web-0.9.1
+[2018-09-30 18:46:21.923] [sharedprocess] [info] Installation completed. codemix.web-0.9.1
+[2018-09-30 18:46:21.926] [sharedprocess] [info] Successfully installed the extension: codemix.web-0.9.1
+[2018-09-30 18:46:21.959] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-30 18:46:22.046] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-30 18:46:22.109] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-30 18:46:22.172] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:22.201] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:22.308] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-30 18:46:22.328] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-30 18:46:22.329] [sharedprocess] [info] Installing the extension: christian-kohler.path-intellisense-1.4.2
+[2018-09-30 18:46:22.376] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-30 18:46:22.427] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:22.573] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.christian-kohler.path-intellisense-1.4.2: christian-kohler.path-intellisense-1.4.2
+[2018-09-30 18:46:22.599] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\christian-kohler.path-intellisense-1.4.2
+[2018-09-30 18:46:22.599] [sharedprocess] [info] Installation completed. christian-kohler.path-intellisense-1.4.2
+[2018-09-30 18:46:22.602] [sharedprocess] [info] Successfully installed the extension: christian-kohler.path-intellisense-1.4.2
+[2018-09-30 18:46:22.629] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-30 18:46:22.692] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-30 18:46:22.792] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-30 18:46:22.809] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:22.855] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:22.930] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-30 18:46:22.946] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-30 18:46:22.946] [sharedprocess] [info] Installing the extension: codemix.node-0.9.0
+[2018-09-30 18:46:22.988] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-30 18:46:23.030] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:23.055] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.codemix.node-0.9.0: codemix.node-0.9.0
+[2018-09-30 18:46:23.080] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\codemix.node-0.9.0
+[2018-09-30 18:46:23.080] [sharedprocess] [info] Installation completed. codemix.node-0.9.0
+[2018-09-30 18:46:23.082] [sharedprocess] [info] Successfully installed the extension: codemix.node-0.9.0
+[2018-09-30 18:46:23.102] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-30 18:46:23.144] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-30 18:46:23.204] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:23.249] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-30 18:46:23.301] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:23.689] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-30 18:46:23.714] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-30 18:46:23.714] [sharedprocess] [info] Installing the extension: formulahendry.code-runner-0.9.3
+[2018-09-30 18:46:23.755] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-30 18:46:23.797] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:24.185] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.formulahendry.code-runner-0.9.3: formulahendry.code-runner-0.9.3
+[2018-09-30 18:46:24.211] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\formulahendry.code-runner-0.9.3
+[2018-09-30 18:46:24.211] [sharedprocess] [info] Installation completed. formulahendry.code-runner-0.9.3
+[2018-09-30 18:46:24.215] [sharedprocess] [info] Successfully installed the extension: formulahendry.code-runner-0.9.3
+[2018-09-30 18:46:24.239] [sharedprocess] [info] Scanned user extensions: 17
+[2018-09-30 18:46:24.288] [sharedprocess] [info] Scanned user extensions: 17
+[2018-09-30 18:46:24.338] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:24.387] [sharedprocess] [info] Scanned user extensions: 17
+[2018-09-30 18:46:24.468] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:24.567] [sharedprocess] [info] Scanned user extensions: 17
+[2018-09-30 18:46:24.604] [sharedprocess] [info] Scanned user extensions: 17
+[2018-09-30 18:46:24.606] [sharedprocess] [info] Installing the extension: msjsdiag.debugger-for-chrome-4.4.3
+[2018-09-30 18:46:24.659] [sharedprocess] [info] Scanned user extensions: 17
+[2018-09-30 18:46:24.722] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:26.576] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.msjsdiag.debugger-for-chrome-4.4.3: msjsdiag.debugger-for-chrome-4.4.3
+[2018-09-30 18:46:26.618] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\msjsdiag.debugger-for-chrome-4.4.3
+[2018-09-30 18:46:26.618] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome-4.4.3
+[2018-09-30 18:46:26.624] [sharedprocess] [info] Successfully installed the extension: msjsdiag.debugger-for-chrome-4.4.3
+[2018-09-30 18:46:26.692] [sharedprocess] [info] Scanned user extensions: 18
+[2018-09-30 18:46:26.853] [sharedprocess] [info] Scanned user extensions: 18
+[2018-09-30 18:46:26.883] [sharedprocess] [info] Scanned user extensions: 18
+[2018-09-30 18:46:27.011] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:27.075] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:31.060] [sharedprocess] [info] Scanned user extensions: 18
+[2018-09-30 18:46:31.083] [sharedprocess] [info] Scanned user extensions: 18
+[2018-09-30 18:46:31.083] [sharedprocess] [info] Installing the extension: angular.ng-template-0.1.9
+[2018-09-30 18:46:31.118] [sharedprocess] [info] Scanned user extensions: 18
+[2018-09-30 18:46:31.156] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:33.090] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.angular.ng-template-0.1.9: angular.ng-template-0.1.9
+[2018-09-30 18:46:33.119] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\angular.ng-template-0.1.9
+[2018-09-30 18:46:33.120] [sharedprocess] [info] Installation completed. angular.ng-template-0.1.9
+[2018-09-30 18:46:33.122] [sharedprocess] [info] Successfully installed the extension: angular.ng-template-0.1.9
+[2018-09-30 18:46:33.159] [sharedprocess] [info] Scanned user extensions: 19
+[2018-09-30 18:46:33.209] [sharedprocess] [info] Scanned user extensions: 19
+[2018-09-30 18:46:33.292] [sharedprocess] [info] Scanned user extensions: 19
+[2018-09-30 18:46:33.318] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:33.362] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:33.519] [sharedprocess] [info] Scanned user extensions: 19
+[2018-09-30 18:46:33.550] [sharedprocess] [info] Scanned user extensions: 19
+[2018-09-30 18:46:33.551] [sharedprocess] [info] Installing the extension: dbaeumer.vscode-eslint-1.4.10
+[2018-09-30 18:46:33.608] [sharedprocess] [info] Scanned user extensions: 19
+[2018-09-30 18:46:33.675] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:34.227] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.dbaeumer.vscode-eslint-1.4.10: dbaeumer.vscode-eslint-1.4.10
+[2018-09-30 18:46:34.255] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\dbaeumer.vscode-eslint-1.4.10
+[2018-09-30 18:46:34.255] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint-1.4.10
+[2018-09-30 18:46:34.257] [sharedprocess] [info] Successfully installed the extension: dbaeumer.vscode-eslint-1.4.10
+[2018-09-30 18:46:34.289] [sharedprocess] [info] Scanned user extensions: 20
+[2018-09-30 18:46:34.345] [sharedprocess] [info] Scanned user extensions: 20
+[2018-09-30 18:46:34.433] [sharedprocess] [info] Scanned user extensions: 20
+[2018-09-30 18:46:34.453] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:34.503] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:47.306] [sharedprocess] [info] Scanned user extensions: 20
+[2018-09-30 18:46:47.320] [sharedprocess] [info] Scanned user extensions: 20
+[2018-09-30 18:46:47.320] [sharedprocess] [info] Installing the extension: rbbit.typescript-hero-2.3.2
+[2018-09-30 18:46:47.346] [sharedprocess] [info] Scanned user extensions: 20
+[2018-09-30 18:46:47.367] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:51.740] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.rbbit.typescript-hero-2.3.2: rbbit.typescript-hero-2.3.2
+[2018-09-30 18:46:51.763] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\rbbit.typescript-hero-2.3.2
+[2018-09-30 18:46:51.763] [sharedprocess] [info] Installation completed. rbbit.typescript-hero-2.3.2
+[2018-09-30 18:46:51.768] [sharedprocess] [info] Successfully installed the extension: rbbit.typescript-hero-2.3.2
+[2018-09-30 18:46:51.787] [sharedprocess] [info] Scanned user extensions: 21
+[2018-09-30 18:46:51.831] [sharedprocess] [info] Scanned user extensions: 21
+[2018-09-30 18:46:51.856] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:51.945] [sharedprocess] [info] Scanned user extensions: 21
+[2018-09-30 18:46:51.967] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:51.992] [sharedprocess] [info] Scanned user extensions: 21
+[2018-09-30 18:46:52.018] [sharedprocess] [info] Scanned user extensions: 21
+[2018-09-30 18:46:52.018] [sharedprocess] [info] Installing the extension: christian-kohler.npm-intellisense-1.2.1
+[2018-09-30 18:46:52.079] [sharedprocess] [info] Scanned user extensions: 21
+[2018-09-30 18:46:52.149] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:52.370] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.christian-kohler.npm-intellisense-1.2.1: christian-kohler.npm-intellisense-1.2.1
+[2018-09-30 18:46:52.394] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\christian-kohler.npm-intellisense-1.2.1
+[2018-09-30 18:46:52.394] [sharedprocess] [info] Installation completed. christian-kohler.npm-intellisense-1.2.1
+[2018-09-30 18:46:52.396] [sharedprocess] [info] Successfully installed the extension: christian-kohler.npm-intellisense-1.2.1
+[2018-09-30 18:46:52.429] [sharedprocess] [info] Scanned user extensions: 22
+[2018-09-30 18:46:52.519] [sharedprocess] [info] Scanned user extensions: 22
+[2018-09-30 18:46:52.597] [sharedprocess] [info] Scanned user extensions: 22
+[2018-09-30 18:46:52.634] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:52.665] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:52.796] [sharedprocess] [info] Scanned user extensions: 22
+[2018-09-30 18:46:52.820] [sharedprocess] [info] Scanned user extensions: 22
+[2018-09-30 18:46:52.820] [sharedprocess] [info] Installing the extension: xabikos.javascriptsnippets-1.6.0
+[2018-09-30 18:46:52.872] [sharedprocess] [info] Scanned user extensions: 22
+[2018-09-30 18:46:52.908] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:52.933] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.xabikos.javascriptsnippets-1.6.0: xabikos.javascriptsnippets-1.6.0
+[2018-09-30 18:46:52.957] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\xabikos.javascriptsnippets-1.6.0
+[2018-09-30 18:46:52.957] [sharedprocess] [info] Installation completed. xabikos.javascriptsnippets-1.6.0
+[2018-09-30 18:46:52.959] [sharedprocess] [info] Successfully installed the extension: xabikos.javascriptsnippets-1.6.0
+[2018-09-30 18:46:52.987] [sharedprocess] [info] Scanned user extensions: 23
+[2018-09-30 18:46:53.061] [sharedprocess] [info] Scanned user extensions: 23
+[2018-09-30 18:46:53.179] [sharedprocess] [info] Scanned user extensions: 23
+[2018-09-30 18:46:53.200] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:53.240] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:53.387] [sharedprocess] [info] Scanned user extensions: 23
+[2018-09-30 18:46:53.420] [sharedprocess] [info] Scanned user extensions: 23
+[2018-09-30 18:46:53.420] [sharedprocess] [info] Installing the extension: codemix.typescript-0.9.0
+[2018-09-30 18:46:53.488] [sharedprocess] [info] Scanned user extensions: 23
+[2018-09-30 18:46:53.534] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:53.548] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.codemix.typescript-0.9.0: codemix.typescript-0.9.0
+[2018-09-30 18:46:53.576] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\codemix.typescript-0.9.0
+[2018-09-30 18:46:53.577] [sharedprocess] [info] Installation completed. codemix.typescript-0.9.0
+[2018-09-30 18:46:53.578] [sharedprocess] [info] Successfully installed the extension: codemix.typescript-0.9.0
+[2018-09-30 18:46:53.649] [sharedprocess] [info] Scanned user extensions: 24
+[2018-09-30 18:46:53.735] [sharedprocess] [info] Scanned user extensions: 24
+[2018-09-30 18:46:53.795] [sharedprocess] [info] Scanned user extensions: 24
+[2018-09-30 18:46:53.831] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:53.857] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:53.978] [sharedprocess] [info] Scanned user extensions: 24
+[2018-09-30 18:46:54.003] [sharedprocess] [info] Scanned user extensions: 24
+[2018-09-30 18:46:54.004] [sharedprocess] [info] Installing the extension: mkaufman.htmlhint-0.5.0
+[2018-09-30 18:46:54.052] [sharedprocess] [info] Scanned user extensions: 24
+[2018-09-30 18:46:54.101] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:57.020] [sharedprocess] [info] Extracted extension to C:\Users\Jijo\.vscode\extensions\.mkaufman.htmlhint-0.5.0: mkaufman.htmlhint-0.5.0
+[2018-09-30 18:46:57.051] [sharedprocess] [info] Renamed to C:\Users\Jijo\.vscode\extensions\mkaufman.htmlhint-0.5.0
+[2018-09-30 18:46:57.051] [sharedprocess] [info] Installation completed. mkaufman.htmlhint-0.5.0
+[2018-09-30 18:46:57.054] [sharedprocess] [info] Successfully installed the extension: mkaufman.htmlhint-0.5.0
+[2018-09-30 18:46:57.100] [sharedprocess] [info] Scanned user extensions: 25
+[2018-09-30 18:46:57.200] [sharedprocess] [info] Scanned user extensions: 25
+[2018-09-30 18:46:57.297] [sharedprocess] [info] Scanned user extensions: 25
+[2018-09-30 18:46:57.330] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:46:57.355] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:47:00.223] [sharedprocess] [info] Scanned user extensions: 25
+[2018-09-30 18:47:00.238] [sharedprocess] [info] Scanned user extensions: 25
+[2018-09-30 18:47:00.275] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-30 18:47:03.730] [sharedprocess] [info] Scanned user extensions: 25

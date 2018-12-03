@@ -1,0 +1,1 @@
+mongod.exe --dbpath "D:\Work Space\angular\ng6-max-examples\data\db" && npm run start:server && ng serve --open

@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    "__error": "Not found",
+    "src\\app - Section 9": true,
+    "src\\app - Section 10": true,
+    "src\\app - Section 11": true
+  }
+}

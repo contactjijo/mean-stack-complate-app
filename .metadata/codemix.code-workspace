@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "D:\\Work Space\\angular\\ng6-max-examples\\AngularIDEDemo"
+    }
+  ],
+  "settings": {
+    "javascript.referencesCodeLens.enabled": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.enabled": true,
+    "javascript.implicitProjectConfig.checkJs": true
+  }
+}
