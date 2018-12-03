@@ -7,11 +7,14 @@ const postsRoutes = require("./routes/posts");
 const userRoutes = require("./routes/user");
 
 const app = express();
+
+const dbCloudUrl = "mongodb+srv://user:" + process.env.MONGO_ATLAS_PW +
+  "@cluster0-3fnsl.mongodb.net/test?retryWrites=true";
+const dbLocalUrl = "mongodb://localhost:27017/myapp";
+
 mongoose
   .connect(
-    "mongodb+srv://user:" +
-    process.env.MONGO_ATLAS_PW +
-    "@cluster0-3fnsl.mongodb.net/test?retryWrites=true", { useNewUrlParser: true }
+    dbLocalUrl, { useNewUrlParser: true }
   )
   .then(() => {
     console.log("Connected to database!");

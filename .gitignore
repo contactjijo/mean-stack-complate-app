@@ -40,3 +40,9 @@ Thumbs.db
 
 
 backend/images
+
+#others
+start.app.bat
+nodemon.json
+/.vscode
+app.js
