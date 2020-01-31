@@ -46,3 +46,5 @@ start.app.bat
 nodemon.json
 /.vscode
 app.js
+data/
+images/
