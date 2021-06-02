@@ -14,7 +14,7 @@ const dbLocalUrl = "mongodb://localhost:27017/myapp";
 
 mongoose
   .connect(
-    dbLocalUrl, { useNewUrlParser: true }
+    dbLocalUrl, { useNewUrlParser: true, useUnifiedTopology: true }
   )
   .then(() => {
     console.log("Connected to database!");
